@@ -31,14 +31,6 @@ Este repositório está organizado da seguinte forma:
 ### 5. **Documentação**
   - Todos os materiais de apoio, slides, artigos e guias fornecidos durante a disciplina, como o [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/v42/2-Introduction/) e o livro *Effective Software Testing* de Maurício Aniche.
 
-## Organização dos Arquivos
-
-- **/TPI**: Diretório contendo os Testes de Preparação Individual.
-- **/TPE**: Diretório com os arquivos e soluções dos Testes de Preparação em Equipe.
-- **/AAE**: Diretório com as Atividades de Aplicação em Equipe.
-- **/PTOSS**: Diretório com as Práticas de Teste em Open Source Software.
-- **/Documentos**: Materiais de referência e planos de ensino/aprendizagem.
-
 ## Ferramentas Utilizadas
 
 Durante o curso, utilizamos diversas ferramentas de teste, incluindo:
